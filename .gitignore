@@ -9,3 +9,6 @@ build/
 
 # Output files
 *.ppm
+
+# Roo files
+.roo/
