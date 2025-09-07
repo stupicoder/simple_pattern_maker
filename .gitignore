@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+
+# VS Code settings
+.vscode/
+
+# Executables
+*.exe
+
+# Output files
+*.ppm
